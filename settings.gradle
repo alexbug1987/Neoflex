@@ -1,0 +1,5 @@
+rootProject.name = 'Neoflex-test-java'
+
+includeBuild 'eureka-server'
+includeBuild 'vacation-pay-calculator'
+
